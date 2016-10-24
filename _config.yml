@@ -25,3 +25,5 @@ github_username:  mox-tryer
 # Build settings
 markdown: kramdown
 theme: minima
+
+permalink: /blog/:year/:month/:day/:title
